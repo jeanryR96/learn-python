@@ -1,4 +1,4 @@
-# Control flow statement
+# Control flow statement 'if'
 
 firstInput = input("Enter here your course 1: ")  # Input data from user
 secondInput = input("Enter here your course 2: ")
